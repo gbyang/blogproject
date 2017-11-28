@@ -25,7 +25,7 @@ SECRET_KEY = 'rk2%s8s&dlk%irz1ybj8(0l01102o=zfw%^2@&amj6g64_sju9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', 'www.gbyang.cn']]
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', 'www.gbyang.cn']
 
 
 # Application definition
